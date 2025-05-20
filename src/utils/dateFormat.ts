@@ -18,7 +18,7 @@ export const addDateSuffix = (date: any) => {
 };
 
 // function to format a timestamp, accepts the timestamp and an `options` object as parameters
-export const dateFormat = async(
+export const dateFormat = (
   timestamp: any,
   { monthLength = 'short', dateSuffix = true } = {}
 ) => {
