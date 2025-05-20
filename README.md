@@ -133,7 +133,6 @@ This API is designed to be tested with Insomnia or similar API testing tools. Fo
    - Verify response data matches expected format
    - Test error handling by sending invalid data
 
-![Insomnia Screenshot](https://via.placeholder.com/800x450.png?text=Insomnia+API+Testing+Screenshot)
 
 ## Technologies Used
 
