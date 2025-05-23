@@ -29,7 +29,7 @@ A robust API for a social network web application where users can share thoughts
 
 Watch the full demonstration of the API functionality:
 
-[View Screencastify Demo](https://app.screencastify.com/v3/watch/pNF6OcSx4eaAej4wIwQn)
+[View Demo/Video](https://res.cloudinary.com/dswrez3vz/video/upload/v1747988836/SOCIAL_NETWORK_rvnisp.mp4)
 
 ## Installation
 
