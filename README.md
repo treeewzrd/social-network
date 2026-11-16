@@ -6,6 +6,18 @@ Coursework REST API for users, thoughts, reactions, and friend relationships.
 
 **Built with:** TypeScript, Node.js, Express, MongoDB, Mongoose.
 
+## What I built
+
+- Implemented Express routes and controllers for users, thoughts, reactions, and friendships.
+- Designed Mongoose schemas with relationships, validation, and calculated fields.
+- Added create, read, update, and delete operations for the API's records.
+
+## Explore the source
+
+- [src/controllers/user-controller.ts](src/controllers/user-controller.ts) — User and friendship operations.
+- [src/controllers/thought-controller.ts](src/controllers/thought-controller.ts) — Thought and reaction operations.
+- [src/models/User.ts](src/models/User.ts) — User schema and relationships.
+
 ## Run locally
 
 Requires Node.js/npm and MongoDB. From the repository root:
