@@ -1,4 +1,3 @@
-// filepath: c:\Users\kphil\OneDrive\Desktop\shit\MODULES\MODULE 17\SOCIAL-NETWORK\src\config\connection.ts
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 dotenv.config();
