@@ -1,6 +1,12 @@
 # Social Network API
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+**Status: Coursework / learning project.**
+
+An Express and MongoDB coursework API for users, thoughts, reactions, and friend relationships.
+
+Preserved as a learning reference; production deployment and current compatibility have not been verified.
+
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -145,15 +151,15 @@ This API is designed to be tested with Insomnia or similar API testing tools. Fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+No project license file is currently provided. Preserve any upstream notices.
 
 ## Credits
 
-Developed by Timothy McGrath
+Developed by treeewzrd
 
 ## Questions
 
 For questions or concerns, please contact me:
 
 - GitHub: [treeewzrd](https://github.com/treeewzrd)
-- Email: treewzrd@gmail.com
+- Contact: [GitHub](https://github.com/treeewzrd)
