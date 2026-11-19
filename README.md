@@ -1,6 +1,8 @@
 # Social Network API
 
-![Status](https://img.shields.io/badge/status-coursework-blue)
+**Coursework for school**
+
+![Coursework](https://img.shields.io/badge/Coursework-blue)
 
 Coursework REST API for users, thoughts, reactions, and friend relationships.
 
